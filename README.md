@@ -4,7 +4,7 @@
 I created a machine to machine application and test the api out to return the list of organizations
 
 <p align="center">
-  <img src="/src/assets/screenshots/organizations.png" alt="Organizations Response" title="Organizations Response" width="400"/>
+  <img src="/src/assets/screenshots/organizations.png" alt="Organizations Response" title="Organizations Response" width="600"/>
 </p>
 
 
